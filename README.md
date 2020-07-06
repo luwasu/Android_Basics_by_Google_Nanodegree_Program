@@ -1,5 +1,7 @@
 # Android Basics by Google Nanodegree Program
 
+The degree covers the following subjects:
+
 1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
 1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
